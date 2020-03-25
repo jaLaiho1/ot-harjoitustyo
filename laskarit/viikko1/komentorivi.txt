@@ -1,0 +1,5 @@
+Folder PATH listing
+Volume serial number is A29A-E787
+C:\MOOC\OT-HARJOITUSTYO\KURSSIT
+Invalid path - \MOOC\OT-HARJOITUSTYO\KURSSIT
+No subfolders exist

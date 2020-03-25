@@ -1,0 +1,9 @@
+$ git log --stat
+commit 176811ef9a514ab2fd54dd1428206dc00d4994c7 (HEAD -> master, origin/master)
+Author: Jarkko Laiho <jarkko.laiho@itfinland.net>
+Date:   Wed Mar 25 22:14:57 2020 +0200
+
+    initial commit
+
+ README.md | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
